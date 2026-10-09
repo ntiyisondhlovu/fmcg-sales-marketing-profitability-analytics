@@ -26,6 +26,7 @@ What the FMCG Analytics dashboard shows, case study by case study. Every number 
 ## 1. Profitability Analysis
 
 *Dashboard page 1*
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/643d8275-c0d6-4e80-8613-f4ffc46c3bdf" />
 
 **By category**
 
@@ -65,6 +66,7 @@ Discount depth is the same in every category (about 15.4%), so discounting doesn
 ## 2. Marketing ROI
 
 *Dashboard page 2*
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/b5cea1e9-ba79-41ef-98ce-740c67023040" />
 
 | Promotion | Net revenue | Margin | ROI |
 |---|---|---|---|
@@ -87,6 +89,7 @@ Discount depth is the same in every category (about 15.4%), so discounting doesn
 ## 3. Sales Forecasting
 
 *Dashboard page 3*
+<img width="1917" height="1067" alt="image" src="https://github.com/user-attachments/assets/3a9f1230-829a-43d4-b6ca-46543734ce7d" />
 
 | Year | Net revenue | Growth | Order lines |
 |---|---|---|---|
@@ -116,6 +119,7 @@ Average monthly error (MAPE): **[ADD FROM FORECAST VISUAL]**
 ## 4. Margin Erosion Analysis
 
 *Dashboard page 4*
+<img width="1917" height="1063" alt="image" src="https://github.com/user-attachments/assets/d8b10e4f-3a60-4917-851a-ab0e8cdc5ce0" />
 
 **By discount depth**
 
@@ -135,6 +139,7 @@ Average monthly error (MAPE): **[ADD FROM FORECAST VISUAL]**
 ## 5. Country Performance
 
 *Dashboard page 5*
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/57725c25-68ea-4afa-9a5a-2a7e4ca3ab6b" />
 
 | # | Country | Net revenue | Profit | Margin | Order lines |
 |---|---|---|---|---|---|
@@ -165,6 +170,7 @@ Average monthly error (MAPE): **[ADD FROM FORECAST VISUAL]**
 ## 6. B2B vs B2C Analysis
 
 *Dashboard page 6*
+<img width="1917" height="1041" alt="image" src="https://github.com/user-attachments/assets/dd8720e5-a48c-40f9-b0ae-8d5214b5771c" />
 
 | | B2B | B2C |
 |---|---|---|
