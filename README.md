@@ -147,10 +147,10 @@ fmcg-sales-marketing-profitability-analytics/
 ## How to open it
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
-2. Download [`report/FMCG_Analytics.pbix`](report/FMCG_Analytics.pbix) and open it. The data is embedded, so no connection is needed.
+2. Download [`report/FMCG_Analytics.pbix`](report/FMCG_Analytics_v4.pbix) and open it. The data is embedded, so no connection is needed.
 3. Use the sidebar to move between pages. In Power BI Desktop, hold **Ctrl** and click a button.
 
-To rebuild the project from scratch, follow the [build guide](docs/FMCG_PowerBI_Build_Guide_v2.pdf).
+
 
 ---
 
